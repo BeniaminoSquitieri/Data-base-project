@@ -62,11 +62,6 @@ The database supports a wide range of queries that can answer important question
 
 These queries provide insights into patterns and trends in terrorist activities, helping to understand the scope and impact of the data stored.
 
-## Results and Future Improvements
-
-### Results
-The database effectively stores and manages detailed information about terrorist attacks. It supports complex queries that can retrieve and analyze data on attackers, weapons, and victims. The normalization process ensures efficient data handling, and the use of design patterns adds flexibility to the database.
-
 ## Contact Information
 
 
