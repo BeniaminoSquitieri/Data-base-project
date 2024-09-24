@@ -4,15 +4,6 @@
 
 This project is part of the **Database Fundamentals** course and focuses on designing and implementing a relational database for storing and analyzing data related to terrorist attacks. The database was developed to manage information on terrorist incidents, including attackers, targets, weapons, locations, and victims. The system supports detailed queries to analyze the impact and trends of terrorist activities.
 
-## Group Information
-
-- **Course**: Database Fundamentals (2021/2022), Group I-Z
-- **Project Topic**: Terrorist Attacks (Project 5)
-- **Group 66 Members**:
-  - Antonio Vitale (Responsible) - a.vitale112@studenti.unisa.it
-  - Beniamino Squitieri - b.squitieri@studenti.unisa.it
-  - Nicola Lanzara - n.lanzara2@studenti.unisa.it
-  - Fabrizio Sarno - f.sarno14@studenti.unisa.it
 
 ## Objectives
 
