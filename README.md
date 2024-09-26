@@ -1,4 +1,4 @@
-# Terrorist Attacks Database Project
+# Terrorist Attacks Database
 
 ## Project Overview
 
